@@ -9,7 +9,7 @@ Welcome to my personal portfolio repository. Here you'll find a collection of pr
 
 
 ## Python Projects
-1. Histopathology Image Analysis with Deep Learning
+1. [Histopathology Image Analysis with Deep Learning](https://github.com/juliusc1/Histopathology-Image-Analysis-with-Deep-Learning)
 
 2. Trasnfer Learning - Image Classification
    
