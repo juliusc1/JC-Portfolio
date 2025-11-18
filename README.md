@@ -8,7 +8,7 @@ Welcome to my personal portfolio repository. Here you'll find a collection of pr
 
 
 
-## 📂 Featured Projects
+## Python Projects
 
 ### 🔬 **Breast Cancer Risk Prediction (Machine Learning)**
 Built ML models using polygenic risk scores (PRS) and ancestry features to predict breast cancer risk.  
@@ -19,6 +19,8 @@ Built ML models using polygenic risk scores (PRS) and ancestry features to predi
 
 ---
 
+## SQL Projects
+
 ### 🏥 **Pharmacy Store Database Schema (SQL)**
 Designed a relational database schema for a multi-branch pharmacy chain with 7 tables and full referential integrity.  
 - **Tech:** SQL  
@@ -27,38 +29,13 @@ Designed a relational database schema for a multi-branch pharmacy chain with 7 t
 
 ---
 
-### 🎮 **Anti-Cheat in Online Games (Technical Presentation)**
-An 8-minute technical talk explaining how cheats work and how modern anti-cheat systems detect them.  
-- **Topics:** Memory injection, aimbots, server-side validation  
-➡️ *[View Project](./anti-cheat-presentation/README.md)*
 
----
+## Repository Structure 
+To explore my portfolio 
+1. Navigate to the project links that interests you.
 
-## ☁️ Google Colab Projects
-These projects were developed in Google Colab and include both links and GitHub copies of the notebooks.
+2. Open the README file to get an overview of the project and its components.
 
-- **Project Name 1** — *[Colab Notebook](#) · [GitHub Notebook](./project-1/notebook.ipynb)*  
-- **Project Name 2** — *[Colab Notebook](#) · [GitHub Notebook](./project-2/notebook.ipynb)*  
-
----
-
-## 🧠 Skills & Tools
-
-**Languages**  
-Python, SQL, Java, C/C++ (add or remove as needed)
-
-**Machine Learning**  
-Logistic Regression, Random Forest, SVM, PCA, ICA, k-means, regularization, evaluation metrics
-
-**Tools**  
-VS Code, Git/GitHub, Google Colab, Jupyter Notebook
-
----
-
-## 📬 Contact
-If you'd like more details about any project or are interested in collaborating, feel free to connect!
-
-- **GitHub:** https://github.com/juliusc1  
-- **Email:** (optional if you want to list it)
+3. Review 
 
 ---
