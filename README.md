@@ -15,12 +15,6 @@ Welcome to my personal portfolio repository. Here you'll find a collection of pr
    
 ---
 
-## SQL Projects
-1. Pharmacy Database System 
-
----
-
-
 ## Repository Structure 
 To explore my portfolio, follow these steps
 1. Navigate to the project links that interests you.
