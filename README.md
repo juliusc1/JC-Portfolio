@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository. Here you'll find a collection of pr
 
 ## About Me 
 
-
+I graduated from the University of California, Santa Cruz with a B.S. in Biomolecular Engineering & Bioinformatics, concentrating in Bioinformatics. I’m passionate about applying data-driven methods to solve real-world problems, with career interests in data science and data analysis. I specialize in machine learning for biological and biomedical data, deep learning–based image analysis, and relational database design. I enjoy building end-to-end analytical workflows that extract meaningful insights from complex datasets.
 
 ## Python Projects
 1. [Histopathology Image Analysis with Deep Learning](https://github.com/juliusc1/Histopathology-Image-Analysis-with-Deep-Learning): This project attempts to use deep learning techniques to analyze and predict if patients are positive or negative for invasive ductal carcinoma (IDC) from histopathology images. I also compared the performance of three different models to determine which architecture produced the highest accuracy and AUC for IDC classification.
